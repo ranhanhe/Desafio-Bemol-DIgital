@@ -1,4 +1,4 @@
-## 📊 Desafio **"Dados que Transformam"** – Análise do E-commerce Olist para a **Bemol Digital**
+### Desafio **"Dados que Transformam"** – Análise do E-commerce Olist para a **Bemol Digital**
 
 ### 👩‍💻 **Autora**  
 **Rayane Neves Lira**  
