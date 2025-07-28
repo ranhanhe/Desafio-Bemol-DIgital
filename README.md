@@ -8,7 +8,7 @@ Estudante de **Sistemas de Informação** no Instituto de Ciências Exatas e Tec
 
 ## 1. 📌 Visão Geral do Projeto
 
-Este repositório contém a solução completa para o desafio **"Dados que Transformam"**, proposto pela **Bemol Digital** para a vaga de **Estágio em Dados**.
+Este repositório contém a solução completa para o desafio **"Dados que Transformam"**, proposto pela **Bemol Digital** para a vaga de **Estágio da Bemol Digital**.
 
 🎯 **Objetivo:**  
 Realizar um pipeline completo de **ETL** (Extração, Transformação e Carga) e uma **Análise Exploratória de Dados (EDA)** a partir de um dataset público da **Olist**, um dos maiores marketplaces do Brasil.
